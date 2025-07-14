@@ -39,4 +39,4 @@ jobs:
           existing_bucket_name: ${{ secrets.EB_BUCKET_NAME }}
           deployment_package: application.zip
 
-          #####
+          ##
